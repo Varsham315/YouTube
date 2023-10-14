@@ -1,3 +1,4 @@
+
 .App {
   text-align: center;
 }
@@ -35,4 +36,12 @@
   to {
     transform: rotate(360deg);
   }
+}
+h1{
+  color: red;
+}
+.container-fluid{
+  display: flex;
+  background-color:#282c34;
+  color: aliceblue;
 }
